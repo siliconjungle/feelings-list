@@ -3,5 +3,5 @@
 A list of emotions & their parent / child relationships.
 
 Used to create this sentiment analysis tool with embeddings search:
-https://github.com/user-attachments/assets/a72267f0-d92e-46d4-981e-df6bd02d1369
 
+https://github.com/user-attachments/assets/9bd9f562-81f2-4714-a9c8-2594d2913131
